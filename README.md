@@ -1,5 +1,6 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=Beyda-Kizildag)
+![](https://komarev.com/ghpvc/?username=Beyda-Kizildag&color=ff69b4)
+
 <!--
 **Beyda-Kizildag/Beyda-Kizildag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
